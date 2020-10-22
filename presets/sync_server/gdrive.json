@@ -1,3 +1,6 @@
 {
-  "credentials_url": ""
+  "gdrive": {
+    "credentials_url": "",
+    "root": "/My Drive"
+  }
 }
